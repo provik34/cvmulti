@@ -1,0 +1,86 @@
+	body {
+				background:linear-gradient(#133B4D,#457370);
+				font-family: arial; color: #2f4f4f;
+				
+}
+
+
+	.textefond {
+				color:#133B4D;
+				font-size: 240px;
+}
+
+
+	.bandeau {
+				width: 2000px;
+     				height: 170px;
+				/*background:black;*/
+				position: absolute;
+				top:80px;
+				font-weight: bold;
+				font-size: 130px;
+				color: #446347;
+			
+				
+					
+}
+
+
+	p {
+			
+					
+				position: relative;
+				margin-top: 25px;
+				left:50;
+
+}
+
+
+	.navigation {
+				
+				position: absolute;
+				top:120px; 
+				height:220px;
+				width:180px;
+				top:200px;
+				left:50px;			
+}
+				
+
+
+
+	nav ul li a  {
+				
+				
+				font-size: 15px;
+				list-style: none;
+				text-decoration: none;
+				color: white;
+				
+				
+}
+	
+	nav ul li   {
+				
+				/*display: inline-block;*/
+				list-style: none;
+				padding-top: 50px;
+			
+}				
+		
+	.fond {
+	
+					
+				color:white;
+				height:300px;
+				width:900px;
+				position: absolute;
+				top:300px;
+				left:300px;
+				
+					
+				
+}	
+
+
+				
