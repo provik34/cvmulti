@@ -3,38 +3,18 @@
 				font-family: arial;
 				
 }
-
-
-
-				
-
-
 	.bandeau {
 				width: 2000px;
      				height: 170px;
 				position: absolute;
-				top:80px;
+				top:-30px;
+				left:50px;
 				font-weight: bold;
 				font-size: 130px;
 				color: #3970BB;
 			
-				
-					
 }
-
-
-	p {
-			
-					
-				position: relative;
-				margin-top: 25px;
-				left:50;
-
-}
-
-
 	.navigation {
-				
 				position: absolute;
 				top:120px; 
 				height:220px;
@@ -43,9 +23,6 @@
 				left:50px;			
 }
 				
-
-
-
 	nav ul li a  {
 				
 				
@@ -53,30 +30,13 @@
 				list-style: none;
 				text-decoration: none;
 				color: white;
-				
-				
 }
 	
 	nav ul li   {
 				
-				/*display: inline-block;*/
 				list-style: none;
 				padding-top: 50px;
 			
-}		
-
-
-	.texte {
-				
-				width: 700px;			
-				height: 300px;
-				float:right;
-				position: absolute;
-				top:300px;
-				left:400px;
-				color:white
-				
-				 
-}		
+}				
 		
 	

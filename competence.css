@@ -3,36 +3,17 @@
 				font-family: arial;
 				
 }
-
-
-
-				
-
-
 	.bandeau {
 				width: 2000px;
      				height: 170px;
 				position: absolute;
-				top:80px;
+				top:-20px;
+				left:60px;
 				font-weight: bold;
 				font-size: 130px;
 				color: #3970BB;
 			
-				
-					
 }
-
-
-	p {
-			
-					
-				position: relative;
-				margin-top: 25px;
-				left:50;
-
-}
-
-
 	.navigation {
 				
 				position: absolute;
@@ -43,9 +24,6 @@
 				left:50px;			
 }
 				
-
-
-
 	nav ul li a  {
 				
 				
@@ -53,26 +31,23 @@
 				list-style: none;
 				text-decoration: none;
 				color: white;
-				
-				
 }
 	
 	nav ul li   {
 				
-				/*display: inline-block;*/
 				list-style: none;
 				padding-top: 50px;
 			
 }				
 		
-	.texte	 {		
-				width: 600px;
+	
+	.fond {
+				width: 2000px;
      				height: 170px;
-				color:white;
-				font-size: 15px;
 				position: absolute;
-				top:300px;
-				left:400px;
-}					
-
-				
+				top:80px;
+				font-weight: bold;
+				font-size: 130px;
+				color: #3970BB;
+			
+}	
